@@ -1,0 +1,27 @@
+
+Node.js:
+
+https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi  
+ 
+Verify through below commands:
+
+node –v and npm –v
+npm install npm@latest -g
+Npm list –g  --depth=0
+
+Install Visual Studio Code:
+
+https://code.visualstudio.com/download
+Install System Installer as administrator
+
+Install Yeoman and gulp
+npm install -g yo gulp
+npm install -g @microsoft/generator-sharepoint
+Npm list –g  --depth=0 
+ 
+
+
+
+
+
+
